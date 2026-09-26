@@ -1,0 +1,15 @@
+{
+  "description": "Expand GNOME's 2 column tiling and add a Windows-snap-assist-inspired popup...",
+  "name": "Tiling Assistant + Rounded Corners",
+  "shell-version": [
+    "48",
+    "49",
+    "50",
+    "51"
+  ],
+  "url": "https://github.com/ubuntu/Tiling-Assistant",
+  "uuid": "tiling-assistant-rounded@nilocnt",
+  "gettext-domain": "tiling-assistant@leleat-on-github",
+  "settings-schema": "org.gnome.shell.extensions.tiling-assistant",
+  "version": 55
+}
