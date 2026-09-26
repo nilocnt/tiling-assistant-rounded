@@ -291,11 +291,11 @@ export default class Prefs extends ExtensionPreferences {
     }
 
     _openChangelog(window) {
-        Gtk.show_uri(window, 'https://github.com/ubuntu/Tiling-Assistant/blob/main/CHANGELOG.md', Gdk.CURRENT_TIME);
+        Gtk.show_uri(window, 'https://github.com/nilocnt/tiling-assistant/-rounded/blob/main/README.md', Gdk.CURRENT_TIME);
     }
 
     _openLicense(window) {
-        Gtk.show_uri(window, 'https://github.com/ubuntu/Tiling-Assistant/blob/main/LICENSE', Gdk.CURRENT_TIME);
+        Gtk.show_uri(window, 'https://github.com/nilocnt/tiling-assistant-rounded/blob/main/LICENSE', Gdk.CURRENT_TIME);
     }
 
     _openHiddenSettings(window, builder) {
